@@ -1,0 +1,17 @@
+﻿cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  stdafx.cpp
+cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  ConsoleApplication1.cpp
+c:\users\kamil\moje pliki\moje pliki z win7\szkoła\consoleapplication1\consoleapplication1\consoleapplication1.cpp(358): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\kamil\moje pliki\moje pliki z win7\szkoła\consoleapplication1\consoleapplication1\consoleapplication1.cpp(359): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\kamil\moje pliki\moje pliki z win7\szkoła\consoleapplication1\consoleapplication1\consoleapplication1.cpp(385): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\kamil\moje pliki\moje pliki z win7\szkoła\consoleapplication1\consoleapplication1\consoleapplication1.cpp(386): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\kamil\moje pliki\moje pliki z win7\szkoła\consoleapplication1\consoleapplication1\consoleapplication1.cpp(404): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\kamil\moje pliki\moje pliki z win7\szkoła\consoleapplication1\consoleapplication1\consoleapplication1.cpp(405): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  ConsoleApplication1.vcxproj -> C:\Users\Kamil\Moje Pliki\Moje Pliki z win7\Szkoła\ConsoleApplication1\Debug\ConsoleApplication1.exe
